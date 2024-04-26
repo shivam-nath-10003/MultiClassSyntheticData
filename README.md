@@ -13,7 +13,7 @@ This project demonstrates how to generate synthetic multi-class data using PyTor
 1. Clone the repository:
 
 ## Requirements
-- Python 3.x
+- Python 3.11.5
 - PyTorch
 - scikit-learn
 - matplotlib
